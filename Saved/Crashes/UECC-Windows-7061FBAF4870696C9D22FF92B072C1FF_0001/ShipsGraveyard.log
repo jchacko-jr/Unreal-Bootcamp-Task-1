@@ -1,0 +1,1335 @@
+﻿Log file open, 03/13/23 20:59:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10732)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ShipsGraveyard
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\tel ue5 project\Ships Graveyard 4.27 Unreal Engine\Ships Graveyard 4.27 Unreal Engine\Ships Graveyard\Ships Graveyard\ShipsGraveyard\ShipsGraveyard.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2604] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 4600H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="1c87ade145f138d113d100aecbef7343"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 16.356839
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7061FBAF4870696C9D22FF92B072C1FF
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading Mac ini files took 0.12 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.15 seconds
+LogConfig: Display: Loading Windows ini files took 0.62 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2604] (), CPU: AMD Ryzen 5 4600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/U5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.03.13-15.29.24:411][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.03.13-15.29.24:411][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.03.13-15.29.24:411][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.03.13-15.29.24:411][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.03.13-15.29.24:411][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.03.13-15.29.24:412][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.03.13-15.29.24:412][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.03.13-15.29.24:412][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.03.13-15.29.24:413][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.03.13-15.29.24:516][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.03.13-15.29.24:519][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.03.13-15.29.24:519][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.03.13-15.29.24:519][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.03.13-15.29.24:979][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.13-15.29.25:023][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.13-15.29.25:023][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.03.13-15.29.25:023][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     DeviceId    : 1f99
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     SubSysId    : 14471025
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     SharedSystemMemory : 3958016000 bytes
+[2023.03.13-15.29.25:024][  0]LogD3D11RHI:     AdapterLuid : 0 69068
+[2023.03.13-15.29.26:803][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_1)
+[2023.03.13-15.29.26:806][  0]LogD3D11RHI:       3949/0/3774 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     DeviceId    : 1636
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     SubSysId    : 14551025
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     Revision    : 00c7
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     DedicatedVideoMemory : 520724480 bytes
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     SharedSystemMemory : 3958016000 bytes
+[2023.03.13-15.29.26:808][  0]LogD3D11RHI:     AdapterLuid : 0 66986
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_1)
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:       496/0/3774 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     Revision    : 0000
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     SharedSystemMemory : 3958016000 bytes
+[2023.03.13-15.29.26:854][  0]LogD3D11RHI:     AdapterLuid : 0 68983
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:       0/0/3774 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     DeviceId    : 1f99
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     SubSysId    : 14471025
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     SharedSystemMemory : 3958016000 bytes
+[2023.03.13-15.29.26:859][  0]LogD3D11RHI:     AdapterLuid : 0 69068
+[2023.03.13-15.29.26:859][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.13-15.29.26:864][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.03.13-15.29.27:029][  0]LogHAL: Display: Platform has ~ 8 GB [7916032000 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.13-15.29.27:031][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.03.13-15.29.27:031][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.03.13-15.29.27:031][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.13-15.29.27:057][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.03.13-15.29.27:057][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Saved/Config/WindowsEditor/Editor.ini]
+[2023.03.13-15.29.27:068][  0]LogInit: Computer: LAPTOP-BTB7N4VM
+[2023.03.13-15.29.27:068][  0]LogInit: User: 91904
+[2023.03.13-15.29.27:068][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.03.13-15.29.27:068][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.13-15.29.27:068][  0]LogMemory: Memory total: Physical=7.4GB (8GB approx)
+[2023.03.13-15.29.27:068][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.03.13-15.29.27:068][  0]LogMemory: Process Physical Memory: 263.45 MB used, 269.72 MB peak
+[2023.03.13-15.29.27:068][  0]LogMemory: Process Virtual Memory: 223.51 MB used, 223.51 MB peak
+[2023.03.13-15.29.27:068][  0]LogMemory: Physical Memory: 3840.04 MB used,  3709.27 MB free, 7549.32 MB total
+[2023.03.13-15.29.27:068][  0]LogMemory: Virtual Memory: 9135.40 MB used,  22347.23 MB free, 31482.63 MB total
+[2023.03.13-15.29.27:068][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.03.13-15.29.27:111][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.13-15.29.27:489][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.03.13-15.29.27:517][  0]LogInit: Using OS detected language (en-US).
+[2023.03.13-15.29.27:517][  0]LogInit: Using OS detected locale (en-IN).
+[2023.03.13-15.29.27:686][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.03.13-15.29.28:413][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.13-15.29.28:680][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.03.13-15.29.28:680][  0]LogWindowsTextInputMethodSystem:   - English (India) - (Keyboard).
+[2023.03.13-15.29.28:680][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.03.13-15.29.28:680][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.03.13-15.29.29:234][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.13-15.29.29:234][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.13-15.29.30:498][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.13-15.29.30:499][  0]LogD3D11RHI:     GPU DeviceId: 0x1f99 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.13-15.29.30:499][  0]LogWindows: Attached monitors:
+[2023.03.13-15.29.30:499][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.03.13-15.29.30:499][  0]LogWindows: Found 1 attached monitors.
+[2023.03.13-15.29.30:499][  0]LogWindows: EnumDisplayDevices:
+[2023.03.13-15.29.30:499][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.03.13-15.29.30:500][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.03.13-15.29.30:501][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.03.13-15.29.30:502][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.03.13-15.29.30:502][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.03.13-15.29.30:502][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2023.03.13-15.29.30:502][  0]LogD3D11RHI:   Driver Version: 528.24 (internal:31.0.15.2824, unified:528.24)
+[2023.03.13-15.29.30:502][  0]LogD3D11RHI:      Driver Date: 1-15-2023
+[2023.03.13-15.29.30:512][  0]LogRHI: Texture pool is 2764 MB (70% of 3949 MB)
+[2023.03.13-15.29.30:513][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.13-15.29.30:513][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2023.03.13-15.29.30:513][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.13-15.29.30:513][  0]LogD3D11RHI:     DeviceId    : 1f99
+[2023.03.13-15.29.30:513][  0]LogD3D11RHI:     SubSysId    : 14471025
+[2023.03.13-15.29.30:514][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.13-15.29.30:514][  0]LogD3D11RHI:     DedicatedVideoMemory : 4140826624 bytes
+[2023.03.13-15.29.30:514][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.13-15.29.30:514][  0]LogD3D11RHI:     SharedSystemMemory : 3958016000 bytes
+[2023.03.13-15.29.30:514][  0]LogD3D11RHI:     AdapterLuid : 0 69068
+[2023.03.13-15.29.31:739][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.13-15.29.31:740][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.13-15.29.31:740][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.03.13-15.29.31:740][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.13-15.29.32:423][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.03.13-15.29.32:563][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.13-15.29.32:670][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/ShipsGraveyard.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/TurnkeyReport_0.log" -log="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/TurnkeyLog_0.log" -project="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/ShipsGraveyard.uproject"  -platform=all'
+[2023.03.13-15.29.32:671][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/U5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/ShipsGraveyard.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/TurnkeyReport_0.log" -log="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/TurnkeyLog_0.log" -project="D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/ShipsGraveyard.uproject"  -platform=all" ]
+[2023.03.13-15.29.33:034][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.03.13-15.29.33:371][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2023.03.13-15.29.33:371][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.03.13-15.29.33:371][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.13-15.29.33:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.13-15.29.33:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.03.13-15.29.33:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.03.13-15.29.34:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.13-15.29.34:057][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.13-15.29.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.13-15.29.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.03.13-15.29.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.13-15.29.34:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.13-15.29.34:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.03.13-15.29.34:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.03.13-15.29.34:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.03.13-15.29.34:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.13-15.29.34:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.13-15.29.34:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.13-15.29.34:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.03.13-15.29.34:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.13-15.29.34:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.13-15.29.34:187][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.03.13-15.29.34:345][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.13-15.29.34:370][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.03.13-15.29.34:370][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.03.13-15.29.34:370][  0]LogTargetPlatformManager:   ADPCM
+[2023.03.13-15.29.34:370][  0]LogTargetPlatformManager:   PCM
+[2023.03.13-15.29.34:396][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.03.13-15.29.34:396][  0]LogTargetPlatformManager:   BINKA
+[2023.03.13-15.29.34:396][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.03.13-15.29.34:396][  0]LogTargetPlatformManager:   OGG
+[2023.03.13-15.29.34:396][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.03.13-15.29.34:396][  0]LogTargetPlatformManager:   OPUS
+[2023.03.13-15.29.35:318][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.03.13-15.29.35:374][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.03.13-15.29.35:427][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.03.13-15.29.35:439][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.13-15.29.35:495][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.13-15.29.35:557][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.13-15.29.35:558][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.03.13-15.29.35:559][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.13-15.29.35:562][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.13-15.29.35:563][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.03.13-15.29.35:612][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.13-15.29.35:612][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.03.13-15.29.35:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.13-15.29.35:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.03.13-15.29.35:868][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.03.13-15.29.35:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.13-15.29.35:870][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.03.13-15.29.35:899][  0]LogDerivedDataCache: Speed tests for C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2023.03.13-15.29.35:902][  0]LogDerivedDataCache: Display: Performance to C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.49ms. RandomReadSpeed=150.09MBs, RandomWriteSpeed=56.10MBs. Assigned SpeedClass 'Local'
+[2023.03.13-15.29.35:978][  0]LogDerivedDataCache: Using Local data cache path C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.13-15.29.35:978][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.13-15.29.35:978][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.03.13-15.29.35:987][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.03.13-15.29.35:987][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.03.13-15.29.36:222][  0]LogShaderCompilers: Guid format shader working directory is -102 characters bigger than the processId version (../../../../../tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Intermediate/Shaders/WorkingDirectory/23176/).
+[2023.03.13-15.29.36:223][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/91904/AppData/Local/Temp/UnrealShaderWorkingDir/C1D548B44C0466A1830D75BF31D7A294/'.
+[2023.03.13-15.29.36:237][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.13-15.29.36:237][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.03.13-15.29.48:013][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.13-15.29.48:121][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.13-15.29.49:085][  0]LogAssetRegistry: FAssetRegistry took 0.0736 seconds to start up
+[2023.03.13-15.29.49:231][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.03.13-15.30.07:854][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.03.13-15.30.08:898][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.03.13-15.30.10:285][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.03.13-15.30.10:286][  0]LogDeviceProfileManager: Active device profile: [00000708102A8180][0000070805610000 50] WindowsEditor
+[2023.03.13-15.30.10:286][  0]LogDeviceProfileManager: Profiles: [00000708102A86C0][000007080557A000 50] Windows, [00000708102A8180][0000070805610000 50] WindowsEditor, [00000708102A9BC0][00000707F0725000 50] WindowsServer, [00000708102A4EC0][00000708055C5000 50] WindowsClient, [00000708102A7380][0000070801EA5000 50] IOS, [00000708102A8880][00000708102F0000 50] iPadAir2, [00000708102A9F40][00000708102F7800 50] IPadPro, [00000708102AA100][00000708102F5000 50] iPadAir3, [00000708102A9A00][00000708102FA000 50] iPadAir4, [00000708102A5E80][00000708102FC800 50] iPadMini4, [00000708102A1340][00000708055C2800 50] iPadMini5, [00000708102A1880][0000070810310000 50] iPadMini6, [0000070810333F00][000007081031A000 50] iPhone6S, [0000070810334280][0000070810317800 50] iPhone7, [0000070810334600][0000070810315000 50] iPodTouch7, [0000070810330700][000007081031C800 50] iPhone6SPlus, [0000070810333800][00000708102F2800 50] iPhone7Plus, [0000070810336AC0][0000070810320000 50] iPhoneSE, [0000070810330A80][0000070810325000 50] iPhone8, [0000070810336740][0000070810327800 50] iPhone8Plus, [0000070810335400][000007081032A000 50] iPhoneX, [0000070810337380][000007081032C800 50] iPhoneXS, [0000070810334D00][0000070810312800 50] iPhoneXSMax, [0000070810338880][0000070810340000 50] iPhoneXR, [0000070810336C80][0000070810345000 50] iPhone11, [0000070810336040][0000070810347800 50] iPhone11Pro, [0000070810335780][000007081034A000 50] iPhone11ProMax, [0000070810336900][000007081034C800 50] iPhoneSE2, [00000708103301C0][0000070810322800 50] iPhone12Mini, [0000070810332F40][0000070810350000 50] iPhone12, [0000070810333B80][0000070810355000 50] iPhone12Pro, [0000070810334EC0][0000070810357800 50] iPhone12ProMax, [0000070810338DC0][000007081035A000 50] iPhone13Mini, [0000070810339140][000007081035C800 50] iPhone13, [0000070810338A40][0000070810342800 50] iPhone13Pro, [0000070810332140][0000070810360000 50] iPhone13ProMax, [0000070810338500][0000070810365000 50] iPadPro105, [0000070810339840][0000070810367800 50] iPadPro129, [0000070810331340][000007081036A000 50] iPadPro97, [0000070810332A00][000007081036C800 50] iPadPro2_129, [0000070810332BC0][0000070810352800 50] iPad5, [0000070810335CC0][0000070810370000 50] iPad6, [0000070810330FC0][0000070810375000 50] iPad7, [0000070810335940][0000070810377800 50] iPad8, [0000070810339300][000007081037A000 50] iPad9, [0000070810338C00][000007081037C800 50] iPadPro11, [0000070810330E00][0000070810362800 50] iPadPro2_11, [0000070810337700][0000070810390000 50] iPadPro3_11, [0000070810339F40][0000070810395000 50] iPadPro3_129, [00000708103316C0][0000070810397800 50] iPadPro4_129, [00000708103371C0][000007081039A000 50] iPadPro5_129, [0000070810337540][000007081039C800 50] AppleTV, [0000070810332680][0000070810372800 50] AppleTV4K, [0000070810335B00][00000708103A0000 50] TVOS, [00000708102AB7C0][00000708103A7800 50] Mac, [00000708102AA9C0][00000708103A5000 50] MacEditor, [00000708102A1C00][00000708103AA000 50] MacClient, [00000708102AE700][00000708103AC800 50] MacServer, [00000708102A9D80][0000070810430000 50] Linux, [00000708102ACCC0][0000070810432800 50] LinuxEditor, [00000708102A08C0][0000070810437800 50] LinuxArm64Editor, [00000708102AEA80][000007081043A000 50] LinuxArm64, [00000708102AD900][000007081043C800 50] LinuxClient, [00000708102AF880][0000070810392800 50] LinuxArm64Client, [00000708102AAF00][0000070810435000 50] LinuxServer, [00000708102A6900][00000708103B0000 50] LinuxArm64Server, [00000708102AF340][00000708103B5000 50] Android, [00000708102AC240][00000708103B7800 50] Android_Preview_OpenGL, [00000708102A4280][00000708103BA000 50] Android_Preview_Vulkan, [00000708102A0C40][00000708103BC800 50] Android_Low, [00000708102A8A40][00000708103A2800 50] Android_Mid, [00000708102AD580][00000708103C0000 50] Android_High, [00000708102A6040][00000708103C5000 50] Android_Default, [00000708102ABB40][00000708103C7800 50] Android_Adreno4xx, [00000708102A7FC0][00000708103CA000 50] Android_Adreno5xx_Low, [00000708102A7700][00000708103CC800 50] Android_Adreno5xx, [00000708102A4B40][00000708103B2800 50] Android_Adreno6xx, [00000708102AD200][00000708103D0000 50] Android_Adreno6xx_Vulkan, [00000708102A8340][00000708103D5000 50] Android_Adreno7xx, [00000708102AE380][00000708103D7800 50] Android_Adreno7xx_Vulkan, [00000708102A5240][00000708103DA000 50] Android_Mali_T6xx, [00000708102AB440][00000708103DC800 50] Android_Mali_T7xx, [00000708102ADC80][00000708103C2800 50] Android_Mali_T8xx, [00000708102A0700][00000708103E0000 50] Android_Mali_G71, [00000708102ABD00][00000708103E5000 50] Android_Mali_G72, [00000708102A4600][00000708103E7800 50] Android_Mali_G72_Vulkan, [00000708102A9840][00000708103EA000 50] Android_Mali_G76, [00000708102A8F80][00000708103EC800 50] Android_Mali_G76_Vulkan, [00000708102ACB00][00000708103D2800 50] Android_Mali_G77, [00000708102A5080][00000708103F0000 50] Android_Mali_G77_Vulkan, [00000708102A01C0][00000708103F5000 50] Android_Mali_G78, [00000708102AD740][00000708103F7800 50] Android_Mali_G78_Vulkan, [00000708102AEFC0][00000708103FA000 50] Android_Mali_G710, [00000708102A2F40][00000708103FC800 50] Android_Mali_G710_Vulkan, [00000708102AB600][00000708103E2800 50] Android_Xclipse_920, [00000708102AFC00][0000070810400000 50] Android_Xclipse_920_Vulkan, [00000708102A2840][0000070810405000 50] Android_Vulkan_SM5, [00000708102A6AC0][0000070810407800 50] Android_PowerVR_G6xxx, [00000708102A6580][000007081040A000 50] Android_PowerVR_GT7xxx, [00000708102ABEC0][000007081040C800 50] Android_PowerVR_GE8xxx, [00000708102ADE40][00000708103F2800 50] Android_PowerVR_GM9xxx, [00000708102AF500][0000070810410000 50] Android_PowerVR_GM9xxx_Vulkan, [00000708102AD040][0000070810415000 50] Android_TegraK1, [00000708102A1A40][0000070810417800 50] Android_Unknown_Vulkan, [00000708102AA640][000007081041A000 50] Oculus_Quest, [00000708102AC5C0][000007081041C800 50] Oculus_Quest2, [00000708102AE540][0000070810402800 50] HoloLens, 
+[2023.03.13-15.30.10:286][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.03.13-15.30.12:070][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.03.13-15.30.19:416][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.13-15.30.19:416][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.13-15.30.19:416][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.13-15.30.19:416][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.13-15.30.19:440][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.13-15.30.22:205][  0]LogNetVersion: ShipsGraveyard 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1494587968)
+[2023.03.13-15.30.26:858][  0]LogSlate: Border
+[2023.03.13-15.30.26:858][  0]LogSlate: BreadcrumbButton
+[2023.03.13-15.30.26:858][  0]LogSlate: Default
+[2023.03.13-15.30.26:858][  0]LogSlate: Icons.Save
+[2023.03.13-15.30.26:858][  0]LogSlate: Icons.Toolbar.Settings
+[2023.03.13-15.30.26:858][  0]LogSlate: ListView
+[2023.03.13-15.30.26:858][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.03.13-15.30.26:858][  0]LogSlate: SoftwareCursor_Grab
+[2023.03.13-15.30.26:858][  0]LogSlate: TableView.DarkRow
+[2023.03.13-15.30.26:858][  0]LogSlate: TableView.Row
+[2023.03.13-15.30.26:858][  0]LogSlate: TreeView
+[2023.03.13-15.30.35:477][  0]SourceControl: Source control is disabled
+[2023.03.13-15.30.36:440][  0]SourceControl: Source control is disabled
+[2023.03.13-15.30.36:440][  0]SourceControl: Source control is disabled
+[2023.03.13-15.30.38:271][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.03.13-15.30.38:274][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.03.13-15.30.38:276][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.13-15.30.41:083][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BB7632A9431ECFBD946AA5974C7A7CBD | Instance: E58B71B046E82956798DBA95A6A348BF (LAPTOP-BTB7N4VM-23176).
+[2023.03.13-15.30.42:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.13-15.30.42:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.13-15.30.46:950][  0]LogPython: Using Python 3.9.7
+[2023.03.13-15.30.51:246][  0]SourceControl: Source control is disabled
+[2023.03.13-15.30.51:276][  0]SourceControl: Source control is disabled
+[2023.03.13-15.30.51:354][  0]SourceControl: Source control is disabled
+[2023.03.13-15.30.51:480][  0]LogUProjectInfo: Found projects:
+[2023.03.13-15.30.56:292][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.13-15.30.56:496][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.13-15.30.56:496][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.13-15.30.56:550][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.13-15.30.57:615][  0]LogCollectionManager: Loaded 0 collections in 0.004474 seconds
+[2023.03.13-15.30.58:606][  0]LogFileCache: Scanning file cache for directory 'D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Saved/Collections/' took 0.01s
+[2023.03.13-15.30.58:606][  0]LogFileCache: Scanning file cache for directory 'D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Content/Developers/91904/Collections/' took 0.03s
+[2023.03.13-15.30.58:606][  0]LogFileCache: Scanning file cache for directory 'D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Content/Collections/' took 0.00s
+[2023.03.13-15.31.03:727][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (3.04s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 2262ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2023.03.13-15.31.04:024][  0]LogEngine: Initializing Engine...
+[2023.03.13-15.31.04:544][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2023.03.13-15.31.07:236][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.13-15.31.07:425][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.13-15.31.07:911][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.13-15.31.08:732][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.13-15.31.08:944][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.13-15.31.09:148][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.13-15.31.09:158][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.13-15.31.09:159][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.03.13-15.31.09:249][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.13-15.31.09:249][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.13-15.31.09:261][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.13-15.31.09:261][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.13-15.31.09:262][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.03.13-15.31.09:262][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.03.13-15.31.09:262][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.03.13-15.31.09:262][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.13-15.31.09:262][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.13-15.31.09:266][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.13-15.31.09:282][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.13-15.31.09:282][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.13-15.31.09:282][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.13-15.31.09:337][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.13-15.31.10:490][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.13-15.31.10:641][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.13-15.31.10:651][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.13-15.31.10:653][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.13-15.31.10:678][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.03.13-15.31.10:679][  0]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512, InstanceID=1
+[2023.03.13-15.31.10:695][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.13-15.31.10:696][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.03.13-15.31.10:696][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.13-15.31.10:696][  0]LogInit: FAudioDevice initialized.
+[2023.03.13-15.31.10:715][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.13-15.31.10:727][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.13-15.31.10:737][  0]LogInit: Texture streaming: Enabled
+[2023.03.13-15.31.11:074][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.03.13-15.31.11:131][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.13-15.31.11:374][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.03.13-15.31.11:423][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.03.13-15.31.11:423][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.03.13-15.32.20:990][  0]LogLiveCoding: Display: First instance in process group "UE_ShipsGraveyard_0x37d2e5c9", spawning console
+[2023.03.13-15.32.20:990][  0]LogLiveCoding: Display: Waiting for server
+[2023.03.13-15.32.20:990][  0]LogDerivedDataCache: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.027 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.13-15.32.20:990][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.03.13-15.32.21:848][  0]LogInit: Transaction tracking system initialized
+[2023.03.13-15.32.24:372][  0]BlueprintLog: New page: Editor Load
+[2023.03.13-15.32.26:806][  0]LocalizationService: Localization service is disabled
+[2023.03.13-15.32.27:288][  0]TimingProfiler: Initialize
+[2023.03.13-15.32.27:291][  0]TimingProfiler: OnSessionChanged
+[2023.03.13-15.32.27:296][  0]LoadingProfiler: Initialize
+[2023.03.13-15.32.27:297][  0]LoadingProfiler: OnSessionChanged
+[2023.03.13-15.32.27:302][  0]NetworkingProfiler: Initialize
+[2023.03.13-15.32.27:327][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.13-15.32.27:327][  0]MemoryProfiler: Initialize
+[2023.03.13-15.32.27:327][  0]MemoryProfiler: OnSessionChanged
+[2023.03.13-15.32.32:985][  0]LogFileCache: Scanning file cache for directory 'D:/tel ue5 project/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard 4.27 Unreal Engine/Ships Graveyard/Ships Graveyard/ShipsGraveyard/Content/' took 0.14s
+[2023.03.13-15.32.32:985][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.03.13-15.32.36:203][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.13-15.32.37:314][  0]SourceControl: Source control is disabled
+[2023.03.13-15.32.37:434][  0]LogUnrealEdMisc: Loading editor; pre map load, took 300.138
+[2023.03.13-15.32.37:586][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.13-15.32.37:590][  0]LightingResults: New page: Lighting Build
+[2023.03.13-15.32.38:055][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-15.32.38:273][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-15.32.38:408][  0]MapCheck: New page: Map Check
+[2023.03.13-15.32.38:408][  0]LightingResults: New page: Lighting Build
+[2023.03.13-15.32.40:133][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-15.32.40:743][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.13-15.32.41:140][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.03.13-15.32.41:180][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.13-15.32.41:181][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.03.13-15.32.41:473][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.13-15.32.41:477][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.03.13-15.32.44:152][  0]LogWorldPartition: Display: WorldPartition initialize took 2.67 sec
+[2023.03.13-15.32.52:198][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.13-15.32.52:442][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.13-15.32.52:494][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.13-15.32.52:672][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 144.364ms to complete.
+[2023.03.13-15.32.52:674][  0]LogFileHelpers: Loading map 'OpenWorld' took 15.196
+[2023.03.13-15.32.55:913][  0]LogUnrealEdMisc: Total Editor Startup Time, took 318.611
+[2023.03.13-15.32.55:919][  0]LogShaderCompilers: Display: ================================================
+[2023.03.13-15.32.55:919][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.13-15.32.55:919][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.13-15.32.55:920][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.13-15.32.55:920][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.03.13-15.32.55:920][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.13-15.32.55:920][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.13-15.32.55:920][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.13-15.32.55:920][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.13-15.32.55:927][  0]LogShaderCompilers: Display: ================================================
+[2023.03.13-15.32.57:442][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.32.57:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.32.57:488][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.32.57:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.13-15.32.59:221][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:221][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:259][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:259][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:278][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:279][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:301][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:301][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:352][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:352][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:364][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:364][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:373][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:373][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:408][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:408][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:413][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:413][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:418][  0]LogPakFile: Display: Mounted Pak file 'D:/U5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.03.13-15.32.59:418][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.03.13-15.32.59:420][  0]LogFeaturePack: Error: Error in Feature pack D:/U5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.03.13-15.33.01:518][  0]LogSlate: Took 0.021990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.13-15.33.01:925][  0]LogSlate: Took 0.007625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.13-15.33.01:978][  0]LogSlate: Took 0.016893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.13-15.33.02:125][  0]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.03.13-15.33.05:142][  0]LogStall: Startup...
+[2023.03.13-15.33.05:145][  0]LogStall: Startup complete.
+[2023.03.13-15.33.05:295][  0]LogLoad: (Engine Initialization) Total time: 328.00 seconds
+[2023.03.13-15.33.05:295][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.13-15.33.05:964][  0]LogAssetRegistry: Asset discovery search completed in 196.8913 seconds
+[2023.03.13-15.33.06:171][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.008054 seconds (updated 0 objects)
+[2023.03.13-15.33.06:280][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.13-15.33.06:848][  0]LogSlate: Took 0.007389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.13-15.33.17:893][ 28]LogSlate: Took 0.028166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.13-15.33.18:395][ 28]LogSlate: Took 0.032807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.13-15.33.26:145][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.03.13-15.33.32:352][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_16 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:352][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_15 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:352][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:352][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_70 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:352][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_71 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:352][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 426.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.32:353][316]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/Ships_Graveyard/EpicContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_22 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_23 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_24 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_25 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_27 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_28 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_26 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_29 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_30 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_31 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_32 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_33 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_35 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_36 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_34 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_37 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_38 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_39 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:985][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_40 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_42 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_41 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_43 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_44 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_45 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_46 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_47 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_48 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_49 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_50 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_51 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 426.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_52 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_53 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_54 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_55 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_56 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_57 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_58 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_59 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_60 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_61 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_63 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_64 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_62 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_66 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:986][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_65 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_67 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_68 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_69 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_16 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_15 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_70 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_71 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_19 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_21 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_22 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_23 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_24 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_25 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_27 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_26 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_28 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_29 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_30 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:987][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_31 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_32 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_33 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_35 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_34 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_36 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_37 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_38 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_39 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_40 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_41 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 426.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_42 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_43 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_45 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_44 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_47 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_46 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_48 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_49 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_51 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_50 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_53 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_52 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_54 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_55 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_56 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_57 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_58 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_59 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_60 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_61 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_63 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_64 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_62 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_67 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_66 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_69 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_68 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_65 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 4096X4096 X1X1) (Required Memory Estimate: 426.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_10 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_0 (G8, 4096X2048 X1X1) (Required Memory Estimate: 53.333335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_11 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_12 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_13 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_14 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_15 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:988][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_16 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_17 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_18 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_19 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_20 (G8, 256X128 X1X1) (Required Memory Estimate: 0.208335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_21 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_22 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_2 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_23 (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_24 (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_25 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_26 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_27 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_28 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_29 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_30 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_3 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_31 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_32 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_33 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_34 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_35 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_36 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_38 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_39 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_37 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_40 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_4 (G8, 1024X512 X1X1) (Required Memory Estimate: 3.333335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_41 (G8, 256X128 X1X1) (Required Memory Estimate: 0.208335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_42 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_43 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_44 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_45 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_46 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_47 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_48 (G8, 256X128 X1X1) (Required Memory Estimate: 0.208335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_49 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_50 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_5 (G8, 1024X512 X1X1) (Required Memory Estimate: 3.333335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_51 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_52 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_53 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_54 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_55 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_56 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_57 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_58 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_59 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_60 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_6 (G8, 256X128 X1X1) (Required Memory Estimate: 0.208335 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_61 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_62 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_63 (G8, 64X64 X1X1) (Required Memory Estimate: 0.02604 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_65 (G8, 32X32 X1X1) (Required Memory Estimate: 0.006509 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_66 (G8, 32X32 X1X1) (Required Memory Estimate: 0.006509 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_64 (G8, 64X64 X1X1) (Required Memory Estimate: 0.02604 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_7 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_8 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_9 (G8, 128X128 X1X1) (Required Memory Estimate: 0.104165 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo_BuiltData.Demo_BuiltData:ShadowMapTexture2D_1 (BGRA8, 4096X4096 X1X1) (Required Memory Estimate: 426.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_02_AORM.T_Landscape_02_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_02_D.T_Landscape_02_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_02_N.T_Landscape_02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_01_AORM.T_Landscape_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_01_D.T_Landscape_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_115 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_04_AORM.T_Landscape_04_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:989][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_01_N.T_Landscape_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.43:990][316]LogMaterial: Display: Missing cached shadermap for M_Landscape_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 19D1E780D163EA5F5A58B557E78CB988BC2D1806), compiling. 
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_124 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_04_D.T_Landscape_04_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_140 (BGRA8, 512X128 X1X1) (Required Memory Estimate: 1.666698 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_132 (BGRA8, 512X128 X1X1) (Required Memory Estimate: 1.666698 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Default_N.T_Default_N (TFO_BC5, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_57 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_48 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_02_AORM.T_Boat_02_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Landscape_04_N.T_Landscape_04_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_02_N.T_Boat_02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_02_D.T_Boat_02_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Decal_01_D.T_Decal_01_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:107][316]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks()() took too long (0.985 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.03.13-15.33.48:107][316]LogMaterial: Display: Missing cached shadermap for M_Sky_01 in PCD3D_SM5, Default, SM5 (DDC key hash: A5B0B4FB40566FE6F9830E8D0DE155C93C2C899C), compiling. 
+[2023.03.13-15.33.48:133][316]LogMaterial: Display: Missing cached shadermap for M_Simple in PCD3D_SM5, Default, SM5 (DDC key hash: BEF27EBB80CC6426F9804E608A8B961747687B4C), compiling. 
+[2023.03.13-15.33.48:640][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Decal_02_D.T_Decal_02_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:640][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_01a_Body_AORM.T_Ship_01a_Body_AORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.48:640][316]LogMaterial: Display: Missing cached shadermap for M_Decal in PCD3D_SM5, Default, SM5 (DDC key hash: 9B96DA13A5615C922AE4451A95282653A7CDC5AB), compiling. 
+[2023.03.13-15.33.48:840][316]LogMaterial: Display: Missing cached shadermap for M_Water in PCD3D_SM5, Default, SM5 (DDC key hash: 0EC5ECB0ECD6DC5A104A55626D4370A53C4745A9), compiling. 
+[2023.03.13-15.33.50:100][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_01_Body_N.T_Ship_01_Body_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.50:100][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_01a_Body_D.T_Ship_01a_Body_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.50:100][316]LogMaterial: Display: Missing cached shadermap for MI_Boat_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 0E69740AC43688391DF878F0880D92B5519295FA), compiling. 
+[2023.03.13-15.33.50:244][316]LogMaterial: Display: Missing cached shadermap for M_MasterBlend_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 99DB3A1A7919CF94CD2A39F3503D910698FAD381), compiling. 
+[2023.03.13-15.33.50:478][316]LogMaterial: Display: Missing cached shadermap for M_Grass_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A0DE27B1649CED3FF45046D41FC47ED3BF53EF8), compiling. 
+[2023.03.13-15.33.50:765][316]LogMaterial: Display: Missing cached shadermap for M_Simple_Detail in PCD3D_SM5, Default, SM5 (DDC key hash: 02D2208FBB147A79777D4D92167EDA2C7628E4BE), compiling. 
+[2023.03.13-15.33.50:921][316]LogMaterial: Display: Missing cached shadermap for MI_Ship_01_Props_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 5CBA6A6B1F9B3AC4573BB89654ACF9E468B5774A), compiling. 
+[2023.03.13-15.33.51:091][316]LogMaterial: Display: Missing cached shadermap for M_Rusted_Edge_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 3AE001E9D3D081A852F4B837FDA79B3DBFF5E413), compiling. 
+[2023.03.13-15.33.51:351][316]LogMaterial: Display: Missing cached shadermap for M_Vista_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 10DBAB5B500F7009A69BF05A2527A15FB649C115), compiling. 
+[2023.03.13-15.33.51:538][316]LogMaterial: Display: Missing cached shadermap for M_Water_Debris in PCD3D_SM5, Default, SM5 (DDC key hash: 0BA6F8C8050BFA817CFC81B5A5016C3360FDD708), compiling. 
+[2023.03.13-15.33.51:902][316]LogMaterial: Display: Missing cached shadermap for M_Skybirds_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 594FD2ABFF8DA9EC435C234C0D689265AF4FDE6E), compiling. 
+[2023.03.13-15.33.52:292][316]LogMaterial: Display: Missing cached shadermap for M_Flower_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6CFD9A1628DD98625AF7622C45E05A149F22194D), compiling. 
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Display: Building static mesh SM_barrel_02a...
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Display: Building static mesh SM_barrel_02...
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Display: Building static mesh SM_barrel_set_01...
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Display: Building static mesh SM_barrel_set_01a...
+[2023.03.13-15.33.55:585][316]LogDerivedDataCache: Display: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 687544c4c947fa3799e96e0f74df1b82d77e7299 and existing hash 31fd7a407136654807754fcf5a36ef41770a9433 for LegacyMESHDATAKEY/af55ded704d7c37f0dcdf2eda08ca904b26b54cc from '/Game/Ships_Graveyard/Meshes/SM_barrel_set_01a.SM_barrel_set_01a'
+[2023.03.13-15.33.55:585][316]LogDerivedDataCache: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMESHDATAKEY/eb/50/9fbd40d5b0d43084bfd16ac7710b8148f087.udd from '/Game/Ships_Graveyard/Meshes/SM_barrel_02a.SM_barrel_02a'.
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Built static mesh [1.30s] /Game/Ships_Graveyard/Meshes/SM_barrel_02.SM_barrel_02
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Built static mesh [1.28s] /Game/Ships_Graveyard/Meshes/SM_barrel_set_01.SM_barrel_set_01
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Built static mesh [1.29s] /Game/Ships_Graveyard/Meshes/SM_barrel_02a.SM_barrel_02a
+[2023.03.13-15.33.55:585][316]LogStaticMesh: Built static mesh [1.27s] /Game/Ships_Graveyard/Meshes/SM_barrel_set_01a.SM_barrel_set_01a
+[2023.03.13-15.33.55:729][316]LogStaticMesh: Display: Building static mesh SM_boat_02...
+[2023.03.13-15.33.55:729][316]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1FC67D0928F02119095F51DE10626087A1BC0D41), compiling. 
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Display: Building static mesh SM_boat_01...
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Display: Building static mesh SM_boat_01a...
+[2023.03.13-15.33.55:966][316]LogDerivedDataCache: Display: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash cb581cc618683d79f54d4b616e53969b5693bd62 and existing hash 3b2ce5c4146f061b473ef2c75b233d26d725b818 for LegacyMESHDATAKEY/bced4f9b2e7964c045a90bfec65ea2bf7b201bd6 from '/Game/Ships_Graveyard/Meshes/SM_Boat_01a.SM_boat_01a'
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Display: Building static mesh SM_barrel_set_02...
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Built static mesh [0.16s] /Game/Ships_Graveyard/Meshes/SM_Boat_02.SM_boat_02
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Display: Building static mesh SM_boat_02a...
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Built static mesh [0.17s] /Game/Ships_Graveyard/Meshes/SM_Boat_01.SM_boat_01
+[2023.03.13-15.33.55:966][316]LogStaticMesh: Built static mesh [0.17s] /Game/Ships_Graveyard/Meshes/SM_Boat_01a.SM_boat_01a
+[2023.03.13-15.33.56:019][316]LogStaticMesh: Built static mesh [0.15s] /Game/Ships_Graveyard/Meshes/SM_barrel_set_02.SM_barrel_set_02
+[2023.03.13-15.33.56:045][316]LogStaticMesh: Display: Building static mesh SM_boat_03a...
+[2023.03.13-15.33.56:045][316]LogStaticMesh: Display: Building static mesh SM_boat_03...
+[2023.03.13-15.33.56:045][316]LogDerivedDataCache: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMESHDATAKEY/39/59/1b45e1016bee5f26ffb29e6ee23c68700add.udd from '/Game/Ships_Graveyard/Meshes/SM_Boat_03a.SM_boat_03a'.
+[2023.03.13-15.33.56:045][316]LogStaticMesh: Display: Building static mesh SM_boat_04...
+[2023.03.13-15.33.56:045][316]LogStaticMesh: Built static mesh [0.16s] /Game/Ships_Graveyard/Meshes/SM_Boat_02a.SM_boat_02a
+[2023.03.13-15.33.56:045][316]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EDF53907CBCAB5CEE4F2678F6D80B21F9A005C6), compiling. 
+[2023.03.13-15.33.56:117][316]LogStaticMesh: Built static mesh [0.07s] /Game/Ships_Graveyard/Meshes/SM_Boat_04.SM_boat_04
+[2023.03.13-15.33.56:171][316]LogStaticMesh: Display: Building static mesh SM_boat_Debris_01...
+[2023.03.13-15.33.56:185][316]LogStaticMesh: Display: Building static mesh SM_boat_Metal_01...
+[2023.03.13-15.33.56:208][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_Boat_Debris_01.SM_boat_Debris_01
+[2023.03.13-15.33.56:222][316]LogStaticMesh: Display: Building static mesh SM_building_debris_01...
+[2023.03.13-15.33.56:229][316]LogStaticMesh: Built static mesh [0.20s] /Game/Ships_Graveyard/Meshes/SM_Boat_03a.SM_boat_03a
+[2023.03.13-15.33.56:239][316]LogStaticMesh: Built static mesh [0.05s] /Game/Ships_Graveyard/Meshes/SM_Boat_Metal_01.SM_boat_Metal_01
+[2023.03.13-15.33.56:239][316]LogStaticMesh: Built static mesh [0.21s] /Game/Ships_Graveyard/Meshes/SM_Boat_03.SM_boat_03
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Display: Building static mesh SM_building_debris_02...
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_building_debris_01.SM_building_debris_01
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Display: Building static mesh SM_building_debris_04...
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_building_debris_02.SM_building_debris_02
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_building_debris_04.SM_building_debris_04
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Display: Building static mesh SM_building_debris_05...
+[2023.03.13-15.33.56:311][316]LogStaticMesh: Display: Building static mesh SM_building_floor_01...
+[2023.03.13-15.33.56:312][316]MapCheck: /Game/Ships_Graveyard/Maps/Demo.Demo:PersistentLevel.Landscape_7 : Fixed up invalid landscape material instances. Please re-save /Game/Ships_Graveyard/Maps/Demo. 
+[2023.03.13-15.33.56:459][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_building_floor_01.SM_building_floor_01
+[2023.03.13-15.33.56:459][316]LogStaticMesh: Display: Building static mesh SM_building_debris_03...
+[2023.03.13-15.33.56:460][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_building_debris_05.SM_building_debris_05
+[2023.03.13-15.33.56:460][316]LogStaticMesh: Display: Building static mesh SM_building_piece_01...
+[2023.03.13-15.33.56:460][316]LogStaticMesh: Display: Building static mesh SM_building_debris_03a...
+[2023.03.13-15.33.56:460][316]LogStaticMesh: Display: Building static mesh SM_building_piece_02...
+[2023.03.13-15.33.56:460][316]LogDerivedDataCache: Display: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 780d1fede46397cdc7a52a3c4869407cc97559aa and existing hash 7ccec83ac7e7b1e186e0aae83109ca0266e59c43 for LegacyMESHDATAKEY/201ec56685cfa8e4fc8ec3ec143bddbea914a0b3 from '/Game/Ships_Graveyard/Meshes/SM_building_debris_03a.SM_building_debris_03a'
+[2023.03.13-15.33.56:460][316]LogStaticMesh: Built static mesh [0.07s] /Game/Ships_Graveyard/Meshes/SM_building_piece_01.SM_building_piece_01
+[2023.03.13-15.33.56:460][316]LogStaticMesh: Display: Building static mesh SM_building_roof_01...
+[2023.03.13-15.33.56:460][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_3 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:022][316]LogStaticMesh: Built static mesh [0.10s] /Game/Ships_Graveyard/Meshes/SM_building_piece_02.SM_building_piece_02
+[2023.03.13-15.33.59:022][316]LogStaticMesh: Built static mesh [0.16s] /Game/Ships_Graveyard/Meshes/SM_building_debris_03.SM_building_debris_03
+[2023.03.13-15.33.59:022][316]LogStaticMesh: Display: Building static mesh SM_building_roof_02...
+[2023.03.13-15.33.59:022][316]LogStaticMesh: Display: Building static mesh SM_building_roof_03...
+[2023.03.13-15.33.59:022][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_building_roof_03.SM_building_roof_03
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_building_wood_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_building_roof_02.SM_building_roof_02
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_building_wood_01.SM_building_wood_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_building_wood_05...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_building_wood_05.SM_building_wood_05
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.16s] /Game/Ships_Graveyard/Meshes/SM_building_debris_03a.SM_building_debris_03a
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_chains_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_chains_02...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.09s] /Game/Ships_Graveyard/Meshes/SM_building_roof_01.SM_building_roof_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_chains_02.SM_chains_02
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_grass_03...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_grass_01a...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_grass_01...
+[2023.03.13-15.33.59:023][316]LogDerivedDataCache: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMESHDATAKEY/76/d2/556f8b770ddf69b26fc10883843dbd2d56a4.udd from '/Game/Ships_Graveyard/Meshes/SM_grass_01.SM_grass_01'.
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_grass_03.SM_grass_03
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_chains_01.SM_chains_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_grass_01a.SM_grass_01a
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_grass_01.SM_grass_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_rock_02...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_oiltank_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_rock_02.SM_rock_02
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_rock_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_rock_03...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_rock_03.SM_rock_03
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_rock_01.SM_rock_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_rock_04...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_rock_04.SM_rock_04
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.08s] /Game/Ships_Graveyard/Meshes/SM_oiltank_01.SM_oiltank_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_01.SM_ship_01_piece_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_02...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_02a...
+[2023.03.13-15.33.59:023][316]LogDerivedDataCache: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyMESHDATAKEY/8a/4c/71eb3f1adaa0cb479290bfb7bcbb0537f2ce.udd from '/Game/Ships_Graveyard/Meshes/SM_ship_01_piece_02a.SM_ship_01_piece_02a'.
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_02.SM_ship_01_piece_02
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_02a.SM_ship_01_piece_02a
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_03...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_04...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_03.SM_ship_01_piece_03
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_06...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_04.SM_ship_01_piece_04
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_08...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_06.SM_ship_01_piece_06
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_10...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_08.SM_ship_01_piece_08
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_11...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_10.SM_ship_01_piece_10
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_11.SM_ship_01_piece_11
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_piece_12...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_pipe_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_01_pipe_01.SM_ship_01_pipe_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_rope_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.00s] /Game/Ships_Graveyard/Meshes/SM_ship_01_rope_01.SM_ship_01_rope_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01_stairs_03...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.06s] /Game/Ships_Graveyard/Meshes/SM_ship_01_piece_12.SM_ship_01_piece_12
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_01_stairs_03.SM_ship_01_stairs_03
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_mast_01...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Built static mesh [0.12s] /Game/Ships_Graveyard/Meshes/SM_mast_01.SM_mast_01
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_02a...
+[2023.03.13-15.33.59:023][316]LogStaticMesh: Display: Building static mesh SM_ship_01a...
+[2023.03.13-15.33.59:024][316]LogStaticMesh: Built static mesh [0.10s] /Game/Ships_Graveyard/Meshes/SM_ship_02a.SM_ship_02a
+[2023.03.13-15.33.59:024][316]LogStaticMesh: Display: Building static mesh SM_ship_02b...
+[2023.03.13-15.33.59:024][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_ship_02b.SM_ship_02b
+[2023.03.13-15.33.59:024][316]LogStaticMesh: Display: Building static mesh SM_ship_01b...
+[2023.03.13-15.33.59:024][316]LogStaticMesh: Display: Building static mesh SM_ship_02c...
+[2023.03.13-15.33.59:024][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_ship_02c.SM_ship_02c
+[2023.03.13-15.33.59:024][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_54 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:062][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_11 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:091][316]LogStaticMesh: Built static mesh [2.02s] /Game/Ships_Graveyard/Meshes/SM_ship_01.SM_ship_01
+[2023.03.13-15.33.59:091][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_17 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:096][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_33 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:101][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_22 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:134][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_43 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:139][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_29 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:143][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_36 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:149][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_87 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:154][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_66 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:159][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_49 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:165][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_69 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:169][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_63 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:173][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_75 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:178][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_62 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:183][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_71 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:188][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_81 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:193][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_90 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.33.59:198][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_96 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_02d_red...
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_02d...
+[2023.03.13-15.34.00:228][316]LogDerivedDataCache: Display: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash f951c8788eafda16e67d7322219a906e54ca8656 and existing hash 98d867e4904fbc1dc599b17b661e7717fa0d3e55 for LegacyMESHDATAKEY/e0ba4d66b2d5cb9bd43c04115ae2e9fcb6cd6e5f from '/Game/Ships_Graveyard/Meshes/SM_ship_02d.SM_ship_02d'
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [0.08s] /Game/Ships_Graveyard/Meshes/SM_ship_02d_red.SM_ship_02d_red
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_fence_01_red...
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_fence_01_red.SM_ship_fence_01_red
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_fence_02_red...
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_fence_02_red.SM_ship_fence_02_red
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_fence_03_red...
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_fence_03_red.SM_ship_fence_03_red
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_fence_04_red...
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_fence_04_red.SM_ship_fence_04_red
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [0.09s] /Game/Ships_Graveyard/Meshes/SM_ship_02d.SM_ship_02d
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Display: Building static mesh SM_ship_piece_01...
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [1.91s] /Game/Ships_Graveyard/Meshes/SM_ship_01a.SM_ship_01a
+[2023.03.13-15.34.00:228][316]LogStaticMesh: Built static mesh [1.82s] /Game/Ships_Graveyard/Meshes/SM_ship_01b.SM_ship_01b
+[2023.03.13-15.34.00:228][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_104 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.00:237][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_110 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.00:927][316]LogStaticMesh: Built static mesh [1.40s] /Game/Ships_Graveyard/Meshes/SM_ship_piece_01.SM_ship_piece_01
+[2023.03.13-15.34.00:927][316]LogStaticMesh: Display: Building static mesh SM_ship_piece_03...
+[2023.03.13-15.34.00:928][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_119 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.00:994][316]LogStaticMesh: Display: Building static mesh SM_ship_piece_02...
+[2023.03.13-15.34.00:994][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_125 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.01:077][316]LogStaticMesh: Built static mesh [0.10s] /Game/Ships_Graveyard/Meshes/SM_ship_piece_03.SM_ship_piece_03
+[2023.03.13-15.34.01:077][316]LogStaticMesh: Display: Building static mesh SM_ship_piece_07...
+[2023.03.13-15.34.01:077][316]LogStaticMesh: Display: Building static mesh SM_ship_piece_05...
+[2023.03.13-15.34.01:077][316]LogStaticMesh: Built static mesh [0.12s] /Game/Ships_Graveyard/Meshes/SM_ship_piece_02.SM_ship_piece_02
+[2023.03.13-15.34.01:077][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_piece_07.SM_ship_piece_07
+[2023.03.13-15.34.01:077][316]LogStaticMesh: Display: Building static mesh SM_ship_roof_01_red...
+[2023.03.13-15.34.01:077][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_133 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.01:084][316]LogStaticMesh: Display: Building static mesh SM_ship_roof_02_red...
+[2023.03.13-15.34.01:084][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_141 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.01:106][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_roof_01_red.SM_ship_roof_01_red
+[2023.03.13-15.34.01:106][316]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_43 in PCD3D_SM5, Default, SM5 (DDC key hash: 015154662F2EA7892419492F4262B4305B605B0C), compiling. 
+[2023.03.13-15.34.01:408][316]LogStaticMesh: Display: Building static mesh SM_ship_roof_03_red...
+[2023.03.13-15.34.01:408][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_roof_02_red.SM_ship_roof_02_red
+[2023.03.13-15.34.01:408][316]LogStaticMesh: Display: Building static mesh SM_ship_roof_04...
+[2023.03.13-15.34.01:408][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_roof_03_red.SM_ship_roof_03_red
+[2023.03.13-15.34.01:408][316]LogStaticMesh: Display: Building static mesh SM_ship_rust_debris_01...
+[2023.03.13-15.34.01:408][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_roof_04.SM_ship_roof_04
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_rust_debris_02...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_ship_rust_debris_01.SM_ship_rust_debris_01
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_ship_rust_debris_02.SM_ship_rust_debris_02
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.11s] /Game/Ships_Graveyard/Meshes/SM_ship_piece_05.SM_ship_piece_05
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_01...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_01_red...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_02...
+[2023.03.13-15.34.01:409][316]LogDerivedDataCache: Display: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b4a2f4871ccd8f99626b7ea6b8cfef4a40ab84cb and existing hash c55bc1655c7eec735970b732ed0571c524a86b8f for LegacyMESHDATAKEY/b07aaef241d70bbe7fe1fb600e7ddf3c47b88d58 from '/Game/Ships_Graveyard/Meshes/SM_ship_wall_01_red.SM_ship_wall_01_red'
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_01.SM_ship_wall_01
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_01_red.SM_ship_wall_01_red
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_02.SM_ship_wall_02
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_03...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_03_red...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_04...
+[2023.03.13-15.34.01:409][316]LogDerivedDataCache: Display: C:/Users/91904/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash d31b75c85fb3f04d30efbe13fb67e4a7648631b3 and existing hash 4567abe0b3a7b9db7d61e917fd10d3812fdb464b for LegacyMESHDATAKEY/89b1d143f37872be7a6c1ecf0493d33aaa564964 from '/Game/Ships_Graveyard/Meshes/SM_ship_wall_03_red.SM_ship_wall_03_red'
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.05s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_03.SM_ship_wall_03
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_04.SM_ship_wall_04
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.05s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_03_red.SM_ship_wall_03_red
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_05_red...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Built static mesh [0.05s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_05_red.SM_ship_wall_05_red
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_small_rocks_01...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_ship_wall_06_red...
+[2023.03.13-15.34.01:409][316]LogStaticMesh: Display: Building static mesh SM_small_rocks_02...
+[2023.03.13-15.34.01:409][316]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_70 in PCD3D_SM5, Default, SM5 (DDC key hash: B00420D99F121B221BB7202BF0AE84E29B16DBFE), compiling. 
+[2023.03.13-15.34.01:704][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_small_rocks_01.SM_small_rocks_01
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_ship_wall_06_red.SM_ship_wall_06_red
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_small_trash_01...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_small_rocks_02.SM_small_rocks_02
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_small_trash_02...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_small_trash_03...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.03s] /Game/Ships_Graveyard/Meshes/SM_small_trash_02.SM_small_trash_02
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_small_trash_03.SM_small_trash_03
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_small_trash_01.SM_small_trash_01
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_vista_01...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_water_debris_01...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_vista_01.SM_vista_01
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_water_moss_01...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_water_debris_01.SM_water_debris_01
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_water_moss_01.SM_water_moss_01
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_wood_pier_01...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_wood_pier_02...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_wood_pier_01.SM_wood_pier_01
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_wood_pier_03...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.02s] /Game/Ships_Graveyard/Meshes/SM_wood_pier_02.SM_wood_pier_02
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_wood_pier_04...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_wood_pier_03.SM_wood_pier_03
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_wood_pier_05...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_wood_pier_04.SM_wood_pier_04
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.01s] /Game/Ships_Graveyard/Meshes/SM_wood_pier_05.SM_wood_pier_05
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Display: Building static mesh SM_wood_pier_06...
+[2023.03.13-15.34.01:705][316]LogStaticMesh: Built static mesh [0.04s] /Game/Ships_Graveyard/Meshes/SM_wood_pier_06.SM_wood_pier_06
+[2023.03.13-15.34.01:876][316]LogStaticMesh: Display: Building static mesh SM_vista_mountain_01...
+[2023.03.13-15.34.01:876][316]LogStaticMesh: Display: Building static mesh SM_ship_piece_04...
+[2023.03.13-15.34.04:759][316]LogStaticMesh: Built static mesh [0.29s] /Game/Ships_Graveyard/Meshes/SM_ship_piece_04.SM_ship_piece_04
+[2023.03.13-15.34.04:759][316]LogStaticMesh: Built static mesh [0.27s] /Game/Ships_Graveyard/Meshes/SM_vista_mountain_01.SM_vista_mountain_01
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Barrel_01_D.T_Barrel_01_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Barrel_01_N.T_Barrel_01_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Water_Noise_N.T_Water_Noise_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Barrel_01_AORM.T_Barrel_01_AORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Barrel_02_AORM.T_Barrel_02_AORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Barrel_02_D.T_Barrel_02_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.04:759][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Barrel_02_N.T_Barrel_02_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.05:070][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_01_AORM.T_Boat_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.05:070][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_01_N.T_Boat_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.05:070][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_01_D.T_Boat_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.05:138][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_Metal_AORM.T_Boat_Metal_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.06:623][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Debris_01_AORM.T_Buildings_Debris_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.06:623][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_Metal_N.T_Boat_Metal_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.07:162][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Debris_02_AORM.T_Buildings_Debris_02_AORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Debris_01_D.T_Buildings_Debris_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Debris_02_D.T_Buildings_Debris_02_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Boat_Metal_D.T_Boat_Metal_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Debris_02_N.T_Buildings_Debris_02_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Debris_01_N.T_Buildings_Debris_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Floor_D.T_Buildings_Floor_D (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.10:697][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Floor_AORM.T_Buildings_Floor_AORM (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.11:390][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Sky_HDR.T_Sky_HDR (RGBA16F, 8192X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.11:390][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_01_AORM.T_Buildings_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.34.11:390][316]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Ships_Graveyard/Maps/Demo.Demo
+[2023.03.13-15.34.11:455][316]LightingResults: New page: Lighting Build
+[2023.03.13-15.34.11:455][316]LoadErrors: New page: Loading map: Demo.umap
+[2023.03.13-15.35.01:847][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Floor_N.T_Buildings_Floor_N (TFO_BC5, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Wood_01_AORM.T_Buildings_Wood_01_AORM (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Wood_01_D.T_Buildings_Wood_01_D (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_Wood_01_N.T_Buildings_Wood_01_N (TFO_BC5, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_01_D.T_Buildings_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Buildings_01_N.T_Buildings_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_AORM.T_Metal_Tiled_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_M.T_Metal_Tiled_01_M (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_Rust_AORM.T_Metal_Tiled_01_Rust_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_N.T_Metal_Tiled_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Grass_01_D.T_Grass_01_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_D.T_Metal_Tiled_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Grass_01_N.T_Grass_01_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Grass_01_A.T_Grass_01_A (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_Rust_D.T_Metal_Tiled_01_Rust_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_01_AORM.T_Rock_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Oiltank_01_N.T_Oiltank_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Oiltank_01_D.T_Oiltank_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_01_D.T_Rock_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_02_AORM.T_Rock_02_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_02_D.T_Rock_02_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_01_N.T_Rock_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:848][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_02_N.T_Rock_02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_03_AORM.T_Rock_03_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Oiltank_01_AORM.T_Oiltank_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_01_Rust_N.T_Metal_Tiled_01_Rust_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_03_D.T_Rock_03_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_04_AORM.T_Rock_04_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_03_N.T_Rock_03_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_04_D.T_Rock_04_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rock_04_N.T_Rock_04_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_01_Body_AORM.T_Ship_01_Body_AORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_01_Body_D.T_Ship_01_Body_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rusted_Edge_01_N.T_Rusted_Edge_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rusted_Edge_01_AORM.T_Rusted_Edge_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.13-15.35.01:849][316]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.000000s
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (1/9) finished batch of 6 jobs in 73.787s, TBasePassVSTLightMapPolicyHQ [WorkerTime=2.215s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.764s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=1.731s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=0.995s], FLumenCardPS<false> [WorkerTime=0.918s], DepthNoColorOutputPipeline
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (2/9) finished batch of 6 jobs in 73.787s, TLightMapDensityVSTLightMapPolicyHQ [WorkerTime=2.254s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=2.054s], FDebugViewModeVS [WorkerTime=1.957s], TLightMapDensityPSTLightMapPolicyHQ [WorkerTime=0.993s], DepthNoPixelPipeline, VelocityPipeline
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (3/9) finished batch of 6 jobs in 73.788s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=2.970s], FDebugViewModePS [WorkerTime=2.608s], TLightMapDensityVSTLightMapPolicyLQ [WorkerTime=2.241s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=2.096s], TBasePassVSTLightMapPolicyLQ [WorkerTime=1.754s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=0.642s]
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (4/9) finished batch of 6 jobs in 73.788s, TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=2.755s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=2.320s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=1.948s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=1.798s], TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=1.402s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=0.471s]
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (5/9) finished batch of 6 jobs in 73.788s, TLightMapDensityVSFNoLightMapPolicy [WorkerTime=2.544s], TLightMapDensityVSFDummyLightMapPolicy [WorkerTime=2.251s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=2.134s], TBasePassPSTLightMapPolicyLQ [WorkerTime=1.681s], FHitProxyPS [WorkerTime=0.460s], TLightMapDensityPSTLightMapPolicyLQ [WorkerTime=0.444s]
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (6/9) finished batch of 6 jobs in 73.788s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=2.857s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=2.570s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=1.825s], TBasePassPSTLightMapPolicyHQ [WorkerTime=1.762s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=1.398s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=0.760s]
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (7/9) finished batch of 6 jobs in 73.788s, FHitProxyVS [WorkerTime=2.557s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=2.179s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=2.087s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=1.888s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=1.686s], TLightMapDensityPSFDummyLightMapPolicy [WorkerTime=0.610s]
+[2023.03.13-15.35.01:849][316]LogShaderCompilers: Display: Worker (8/9) finished batch of 2 jobs in 73.788s, TBasePassPSFNoLightMapPolicy [WorkerTime=2.597s], FLumenCardVS [WorkerTime=2.120s]
+[2023.03.13-15.35.01:849][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Rusted_Edge_01_D.T_Rusted_Edge_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.01:849][316]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.13-15.35.01:963][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.13-15.35.02:204][316]MapCheck: New page: Map Check
+[2023.03.13-15.35.02:204][316]LightingResults: New page: Lighting Build
+[2023.03.13-15.35.02:422][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_Sceleton_01_AORM.T_Ship_Sceleton_01_AORM (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.02:423][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.13-15.35.04:012][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.03.13-15.35.04:880][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_Sceleton_01_D.T_Ship_Sceleton_01_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.05:117][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_02_AORM.T_Metal_Tiled_02_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.05:117][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_02_D.T_Metal_Tiled_02_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.05:842][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Ship_Sceleton_01_N.T_Ship_Sceleton_01_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.06:478][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Metal_Tiled_02_N.T_Metal_Tiled_02_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.06:478][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Small_rocks_01_D.T_Small_rocks_01_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.06:755][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Small_rocks_01_AORM.T_Small_rocks_01_AORM (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.07:392][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Small_Trash_01_AORM.T_Small_Trash_01_AORM (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.08:003][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Small_Trash_01_N.T_Small_Trash_01_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.08:338][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Small_Trash_01_D.T_Small_Trash_01_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.09:557][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Vista_01_D.T_Vista_01_D (TFO_AutoDXT, 4096X1024 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.09:557][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Small_rocks_01_N.T_Small_rocks_01_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.09:774][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Vista_Mountain_01_AORM.T_Vista_Mountain_01_AORM (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.09:980][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Water_Debris_D.T_Water_Debris_D (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.10:513][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Water_Debris_N.T_Water_Debris_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.10:514][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Water_Debris_R.T_Water_Debris_R (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.10:889][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Wood_Pier_01_AORM.T_Wood_Pier_01_AORM (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.10:889][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Vista_Mountain_01_D.T_Vista_Mountain_01_D (TFO_AutoDXT, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:282][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Wood_Pier_01_D.T_Wood_Pier_01_D (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:282][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_LUTTable01.T_LUTTable01 (BGRA8, 256X16 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:489][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/VFX/T_Birds_03.T_Birds_03 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:892][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Wood_Pier_01_N.T_Wood_Pier_01_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:892][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/VFX/P_Birds_01.P_Birds_01:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:892][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Textures/T_Vista_Mountain_01_N.T_Vista_Mountain_01_N (TFO_BC5, 4096X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:892][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/VFX/T_Flower_01.T_Flower_01 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.3125 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.11:892][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_57_BaseColor (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.12:140][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_48_BaseColor (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.12:140][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_140_BaseColor (TFO_DXT1, 64X16 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.12:140][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_132_BaseColor (TFO_DXT1, 64X16 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.12:140][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_124_BaseColor (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.12:140][316]LogTexture: Display: Building textures: /Game/Ships_Graveyard/Maps/Demo.Texture2D_115_BaseColor (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2023.03.13-15.35.14:884][316]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
